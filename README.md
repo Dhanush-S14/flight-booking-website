@@ -5,6 +5,11 @@ open desired directory in the terminal by right click and open in terminal in de
 git clone "url"<br>
 all the file should appear in the desired directory <br>
 
+# Pre-requisites
+Nodejs is installed
+express is installed 
+Mongoose is installed 
+
 # Mongo DB setup 
 make sure you have mongosh or that you are comfortable with mongo compass <br>
 create the following databases under any connection <br>
