@@ -1,4 +1,4 @@
-# flight-booking-website
+# flight-booking-website including devops
 # Way to clone the project 
 copy the url under code <br>
 open desired directory in the terminal by right click and open in terminal in desired folder or using the cd command <br>
